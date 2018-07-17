@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Case Management Catalog">97819c85db1313001a9c9444ca961985</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 15:39:40</sys_created_on>
+        <sys_id>db819c85db1313001a9c9444ca9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Management Catalog.catalog_case_management_catalog</sys_name>
+        <sys_package display_value="Case Management" source="x_235775_cmngt">2461d081db1313001a9c9444ca961967</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_case_management_catalog">17819c85db1313001a9c9444ca9619a1</sys_portal_page>
+        <sys_scope display_value="Case Management">2461d081db1313001a9c9444ca961967</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_db819c85db1313001a9c9444ca9619a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 15:39:40</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

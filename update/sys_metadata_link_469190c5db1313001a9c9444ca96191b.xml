@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>af61d485db1313001a9c9444ca961922</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group_type">
+    <sys_user_group_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>case_management_dispatch</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 15:39:09</sys_created_on>
+        <sys_id>af61d485db1313001a9c9444ca961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 15:39:09</sys_updated_on>
+    </sys_user_group_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 15:39:51</sys_created_on>
+        <sys_id>469190c5db1313001a9c9444ca96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>case_management_dispatch</sys_name>
+        <sys_package display_value="Case Management" source="x_235775_cmngt">2461d081db1313001a9c9444ca961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">2461d081db1313001a9c9444ca961967</sys_scope>
+        <sys_update_name>sys_metadata_link_469190c5db1313001a9c9444ca96191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 15:39:51</sys_updated_on>
+        <tablename>sys_user_group_type</tablename>
+    </sys_metadata_link>
+</record_update>

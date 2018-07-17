@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Case Management Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Case Management Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Create a new service order" name="Create a new service order">cb75fab1df322100dca6a5f59bf26332</question>
+        <roles>x_235775_cmngt_initiator</roles>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 15:38:58</sys_created_on>
+        <sys_id>4961d085db1313001a9c9444ca9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case Management Request</sys_name>
+        <sys_package display_value="Case Management" source="x_235775_cmngt">2461d081db1313001a9c9444ca961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">2461d081db1313001a9c9444ca961967</sys_scope>
+        <sys_update_name>sys_wizard_answer_4961d085db1313001a9c9444ca9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 15:38:58</sys_updated_on>
+        <table/>
+        <target_url>x_235775_case_management_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

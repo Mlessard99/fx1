@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sf_x_235775_case_management_task">
+    <sf_x_235775_case_management_task action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <automatic_condition/>
+        <automatic_roles/>
+        <automatic_script/>
+        <automatic_string/>
+        <business_rule/>
+        <change_client_script/>
+        <client_script/>
+        <comment>Case Management Request State flow</comment>
+        <derived_from display_value="Request More Information">61feb353df312100dca6a5f59bf263e5</derived_from>
+        <end_text>1</end_text>
+        <ending_state display_value="Draft">11611485db1313001a9c9444ca96196f</ending_state>
+        <event/>
+        <event_rule/>
+        <mandatory_fields/>
+        <manual_condition/>
+        <manual_roles/>
+        <manual_script/>
+        <manual_string>var st = new global.SMTask(); !st.isParentSuspended(current) &amp;&amp; st.showRequestMoreInformation(current)</manual_string>
+        <name>Request More Information</name>
+        <not_mandatory/>
+        <not_read_only/>
+        <not_visible/>
+        <number>SF0010019</number>
+        <override/>
+        <read_only_fields/>
+        <roles/>
+        <start_text>10</start_text>
+        <starting_state display_value="Attribution en attente">d1611485db1313001a9c9444ca961976</starting_state>
+        <sys_class_name>sf_x_235775_case_management_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-12 15:39:07</sys_created_on>
+        <sys_id>0f619485db1313001a9c9444ca961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request More Information</sys_name>
+        <sys_package display_value="Case Management" source="x_235775_cmngt">2461d081db1313001a9c9444ca961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Case Management">2461d081db1313001a9c9444ca961967</sys_scope>
+        <sys_update_name>sf_x_235775_case_management_task_0f619485db1313001a9c9444ca961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-12 15:39:07</sys_updated_on>
+        <table>x_235775_case_management_task</table>
+        <translated_ending_state>Draft</translated_ending_state>
+        <translated_starting_state>Pending Assignment</translated_starting_state>
+        <ui_action display_value="Request More Information">07619485db1313001a9c9444ca961951</ui_action>
+        <visible_fields/>
+        <work_notes/>
+        <work_notes_rule/>
+    </sf_x_235775_case_management_task>
+</record_update>
