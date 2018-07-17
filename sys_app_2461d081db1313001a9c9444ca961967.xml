@@ -8,7 +8,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu display_value="Case Mngt">7e42d409db1313001a9c9444ca96197a</menu>
-        <name>Case Management</name>
+        <name>Case Management 2</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
